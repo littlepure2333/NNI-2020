@@ -1,0 +1,2 @@
+# Task 1.2
+[task requiements](https://github.com/JSong-Jia/NNI-Student-Program-2020/blob/master/Task%20Release_%E4%BB%BB%E5%8A%A1%E5%8F%91%E5%B8%83/Task1.2_%E8%BF%9B%E9%98%B6%E4%BB%BB%E5%8A%A1%E6%A6%82%E8%BF%B0%20HPO%2BNAS%20.md)
