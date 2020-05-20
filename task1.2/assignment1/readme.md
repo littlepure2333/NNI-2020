@@ -5,6 +5,22 @@
 + torch
 + torchvision
 
+## Loading and normalizing CIFAR10
+
+Using `torchvision`, it’s extremely easy to load CIFAR10.
+Simce the output of torchvision datasets are PILImage images of range [0, 1], we need transform them to Tensors of normalized range [-1, 1]
+
+To load and normalize CIFAR10, run this command:
+
+```data
+python data.py
+```
+
+## Define a Convolutional Neural Network
+
+Define a Convolutional Neural Network in `net.py`.
+In this part, we defined `convilution layers`, `pooling layers`,`Linear layer` and `Non-linear Activations` by `torch.nn` and `torch.nn.functional` API.
+
 ## Training
 
 To train the model(s) in the paper, run this command:
