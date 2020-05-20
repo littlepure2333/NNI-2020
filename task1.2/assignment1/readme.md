@@ -15,7 +15,7 @@ python train.py
 
 ## Evaluation
 
-To evaluate my model on ImageNet, run:
+To evaluate my model on cifar-10, run:
 
 ```eval
 python eval.py
@@ -32,7 +32,7 @@ You can download pretrained models here:
 ## Results
 
 
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
-| ------------------ |---------------- | -------------- |
-| My awesome model   |     ---         |      ---       |
+| Model name  | Accuracy |
+| ----------- | -------- |
+| vanilla net | 59%      |
 
