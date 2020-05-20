@@ -19,7 +19,7 @@ python data.py
 ## Define a Convolutional Neural Network
 
 Define a Convolutional Neural Network in `net.py`.
-In this part, we defined `convilution layers`, `pooling layers`,`Linear layer` and `Non-linear Activations` by `torch.nn` and `torch.nn.functional` API.
+In this part, we defined "convilution layers", "pooling layers","Linear layer" and "Non-linear Activations" by `torch.nn` and `torch.nn.functional` API.
 
 ## Training
 
